@@ -1,65 +1,40 @@
-
-<div align="center">
-
-# Hi, I'm Trịnh Đức Quang 👋
-
-### Backend Developer · AI Integration · System Design
-
-<img src="./assets/profile.jpg" width="220" style="border-radius:50%" alt="Profile photo"/>
-
-**Passionate about building scalable systems and practical AI solutions.**
-
-</div>
-
----
-
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     DEVELOPER PROFILE                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Name       : Trịnh Đức Quang                                 │
-│  Role       : Backend Developer / AI Integration              │
-│  Location   : Vietnam                                        │
-│  Focus      : Backend · AI · System Architecture              │
-│  Database   : PostgreSQL · MongoDB                            │
-│  Languages  : Python · TypeScript · SQL                       │
-│  Frameworks : FastAPI · Next.js                               │
-│  DevOps     : Docker · Cloudflare · Git                       │
-│                                                              │
-│  Status     : Always Learning, Always Building               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+
+                                                            YOUR_USERNAME@github
+                 2HGM32253325522A2A                         ------------------------------------
+                3B&&9GM333MMh33MMh335222                    Name       : YOUR_NAME
+                &@@B9SGGGHHHHMMhhhhh333MGH                  Role       : YOUR_ROLE
+               G@@@@&99B&BSS#99BBB9SGGGHMHG                 Location   : YOUR_LOCATION
+           2555G&&@@@@@&&&&B99B&BB9##99###GM
+         hSGHHHHS#GGSS#9B&@@@B99BB&@B#####99S               Tech stack
+        999##GHHH3srsXA5hHGS#9BB99&@@@B#S99BB#              Languages  : YOUR_LANGUAGES
+       B&&&BBB9h2sriiirsXA53hMHHG9#G9&@@&BBB&B9             Frameworks : YOUR_FRAMEWORKS
+       @@&&&@&S2si;;:;irssXAA23hhhHMhG&@@@@B&B#G            Tools      : YOUR_TOOLS
+       &@@@@@&HXrrssXXXXXssXAA5hMMM352h#&&&B##SH            OS         : YOUR_OS
+       #@@@@@G2A223hMMh35AA23hhh3522AXsX3G#99#SM            Editor     : YOUR_EDITOR
+       AB@@@SXrssX5hMh52AssX253H##GM3AsiiXH9#SH5
+        h9@@3ris5h5MHM5sr;;irX25352Xi;:::;5SMM2             Currently
+        shS9X;;::;iii;;;;::;;iirrrrri;::::sH5ss             Learning   : YOUR_LEARNING
+        iX2#X;;;;;;;irsiirsri;rXsriiiii;;;r2hXi             Building   : YOUR_PROJECT
+         ;rhAiiiiiirsXr29h2M9HXAXssrriiii;is;:;             Focus      : YOUR_FOCUS
+          ;;siiiirrsr;;sAA22AXrirsssrrii;;ii;:
+          ;:iriirrrrrirsAA225AXsrssssrii;;ii                About
+              iirrrsX5MhhhMHMhhM52Xssrri;;;                 Interests  : YOUR_INTERESTS
+               irrssXXXXA22222AAAAAXssrri;                  Hobbies    : YOUR_HOBBIES
+                 rssXXXXXA222AAAAAXXXssrrs
+                  sXXXssXAAAAAAAXAAAAXsiX                   Contact
+                  ssXXXXXAAAA22222AAXsr;s                   GitHub     : @YOUR_USERNAME
+                   rssXXXXXAAA22AAXXsri;.                   Email      : YOUR_EMAIL
+                  ,;rssXXXXAA222AAXssri,..3                 Website    : YOUR_WEBSITE
+                 :..;rrssXAA222AAXXXAr,...s9                LinkedIn   : YOUR_LINKEDIN
+                i:...isrssXAA22AAA22i,....2&H
+             233r.....:sXXXAAA2255s,,....:#&SHMhh           GitHub stats
+       3HGSGH3hH;......,s5AAAA22r:,,.....M@BSGHHMMMhhh33    Repos      : YOUR_REPO_COUNT
+ 3hMHHGGGGHMMHHH,........;52AAi,,.......rG99SGGGGGG#GHGS    Stars      : YOUR_STAR_COUNT
+MMHGSSSSGHMMHHHh.........,;2X,....,,,,,,Xh&BGHHGGGHGSS##    Followers  : YOUR_FOLLOWER_COUNT
+GGSSSSSSHMHHHGS2...:s2M9@@H3MGGSHA:::::iX9@&9GGSGGHG##99
+SSSSSSGGB&BS#9925#BM3MhA;2SB@@@@G522riisG@&&BB99BB&&9999    $ whoami
+###999#SGGS9BBBB9&BHs22s;:,rMBB9;;iAsiiMBBB&&&&&&BB99999    YOUR_USERNAME
+99999#SSS#9BB&BBBB&h;,;5M;,,,;3Gs:::i;5BB999BB&&&BB999B9
+99999999BBBB&&BB9B&Hi;:,;iirri;:,,,,,:S99999BBB&&&B&B999
 ```
-
-## ⚡ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🧠 Engineering Mindset
-
-- Backend Architecture & RESTful APIs
-- Database Design & Optimization
-- Domain-Driven Design & Clean Architecture
-- AI Integration & Automation
-- Scalable Systems & System Thinking
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-<div align="center">
-
-### "Build Systems. Solve Problems. Keep Learning."
-
-</div>
