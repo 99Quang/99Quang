@@ -1,143 +1,65 @@
 
 <div align="center">
 
-# 👋 Hello, I'm 99Quang
+# Hi, I'm Trịnh Đức Quang 👋
 
-### Software Developer | Backend Engineer | AI Enthusiast
+### Backend Developer · AI Integration · System Design
 
-Building software, engineering backend systems and exploring AI technologies.
+<img src="./assets/profile.jpg" width="220" style="border-radius:50%" alt="Profile photo"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-99Quang-181717?style=for-the-badge&logo=github)](https://github.com/99Quang)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=99Quang&color=blue&style=flat-square)](https://github.com/99Quang)
+**Passionate about building scalable systems and practical AI solutions.**
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: 99Quang
-role: Software Developer
-interests:
-  - Backend Engineering
-  - Software Architecture
-  - Artificial Intelligence
-  - System Design
-currently_working_on:
-  - 99Automation
-  - AI-powered Applications
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     DEVELOPER PROFILE                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Name       : Trịnh Đức Quang                                 │
+│  Role       : Backend Developer / AI Integration              │
+│  Location   : Vietnam                                        │
+│  Focus      : Backend · AI · System Architecture              │
+│  Database   : PostgreSQL · MongoDB                            │
+│  Languages  : Python · TypeScript · SQL                       │
+│  Frameworks : FastAPI · Next.js                               │
+│  DevOps     : Docker · Cloudflare · Git                       │
+│                                                              │
+│  Status     : Always Learning, Always Building               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-I'm passionate about building practical software products, designing backend systems and applying AI to real-world applications.
+## ⚡ Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🛠️ Technical Skills
+## 🧠 Engineering Mindset
 
-### Programming Languages
+- Backend Architecture & RESTful APIs
+- Database Design & Optimization
+- Domain-Driven Design & Clean Architecture
+- AI Integration & Automation
+- Scalable Systems & System Thinking
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,go,cs,ts,js,c" />
-</p>
+## 📊 GitHub Statistics
 
-### Frameworks & Technologies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,react,nextjs,flutter,fastapi" />
-</p>
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,git,github" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 99Automation
-
-Business automation platform.
-
-- Multi-platform integration
-- AI content generation
-- Automated publishing
-- SaaS architecture
-
-</td>
-<td width="50%">
-
-### AI Applications
-
-Exploring AI-powered software.
-
-- LLM Integration
-- AI Agents
-- Local AI Models
-- Intelligent Automation
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=99Quang&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=99Quang&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=99Quang&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 💻 Developer Environment
-
-```bash
-┌─────────────────────────────────────────────┐
-│                 99QUANG                     │
-├─────────────────────────────────────────────┤
-│  OS          Linux / Windows                │
-│  Backend     Node.js / .NET / Python         │
-│  Frontend    React / Next.js / Flutter      │
-│  Database    PostgreSQL / MongoDB            │
-│  DevOps      Docker / Git / Linux           │
-│  AI          LLM / AI Agents / Local AI     │
-├─────────────────────────────────────────────┤
-│  STATUS      Building & Learning            │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/99Quang)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 <div align="center">
 
-### "Turning ideas into software."
-
-*Build. Learn. Improve. Repeat.*
+### "Build Systems. Solve Problems. Keep Learning."
 
 </div>
